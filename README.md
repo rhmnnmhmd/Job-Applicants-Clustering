@@ -10,7 +10,7 @@
 Using simple unsupervised machine learning algorithm (K-Means) to cluster 2000+ JobStreet job applicants for a Keysight Graduate Engineer Position.
 
 # Results
-## Neural Network Model Summary & Plot
+## Scatter plots of Salary (RM) vs Experience (Years)
 ![k-means 3](statics/k-means_3.png)
 ![k-means 9](statics/k-means_9.png)
 
